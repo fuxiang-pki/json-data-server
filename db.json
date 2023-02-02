@@ -12,11 +12,11 @@
     "name": "typicode"
   },
   "names": {
-    "data": {
+    "data": [
       "Alice",
       "Bob",
       "Tim",
       "Mike"
-    }
+    ]
   }
 }

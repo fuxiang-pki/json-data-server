@@ -32,12 +32,17 @@
     "data": [
       {
         "id": 1,
-        "body": "some comment",
+        "body": "Alice",
         "postId": 1
       },
       {
         "id": 2,
-        "body": "some comment",
+        "body": "Bob",
+        "postId": 1
+      },
+      {
+        "id": 3,
+        "body": "John",
         "postId": 1
       }
     ]

@@ -1,0 +1,9 @@
+{
+"data": [
+    {"id": 1, "name": "apple", "weight": "150g"},
+    {"id": 2, "name": "banana", "weight": "120g"},
+    {"id": 3, "name": "orange", "weight": "180g"},
+    {"id": 4, "name": "grape", "weight": "100g"}
+]
+
+}
